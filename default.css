@@ -1,0 +1,261 @@
+* {
+    text-decoration: none;
+    list-style: none;
+    margin: 0px;
+}
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body {
+    background-color:#282634;
+    color: white;
+    text-align: center;
+}
+
+.divide {
+    background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+    margin-top: 4em;
+    margin-bottom: 4em;
+    width: 100%;
+    height: 20px;
+    filter: blur(1px);
+    z-index: -1;
+}
+
+nav {
+    position:fixed;
+    background-image:linear-gradient(45deg,#F8C8DC ,#96DED1);
+    width:100%;
+    top: 0;
+    padding-bottom: 2em;
+    padding-top:2em;
+    color:#282634;
+    z-index: 1;
+}
+
+.nav-behind {
+  background-image:linear-gradient(45deg,#F8C8DC ,#96DED1);
+  
+}
+
+#landing {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; 
+  margin:auto;
+  max-width: 100%;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+}
+
+h3 {
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2em;
+}
+
+li {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.2em;
+}
+
+#landing h1 {
+    font-family:'Open Sans', sans-serif;
+}
+
+#landing p {
+    font-family:'Open Sans', sans-serif;
+    color: white;
+}
+
+#project-txt  p:nth-of-type(2) {
+    background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+}
+
+#historyContainer {
+    max-width: 80%;
+}
+.container {
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap; 
+  margin:auto;
+  max-width: 100%;
+}
+
+#projectContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    height: auto;
+  }
+
+  .projects {
+    background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+    color: #282634;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  #allProjects {
+    background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 2em;
+  }
+
+
+#achievementsContainer {
+    padding: 1em;
+    display: flex;
+    height: auto;
+  }
+
+  .achievements {
+    background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+    color: #282634;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+  }
+
+   #awardsContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .awards {
+    background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+    color: #282634;
+    display: block;
+    font-family: 'Poppins', sans-serif;
+  }
+
+  #blogContainer {
+    max-width: 80%;
+  }
+
+  #blogContainer p a {
+    background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+    padding-left: 2em;
+    padding-right: 2em;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    margin-top: 4em;
+}
+
+#socialsContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  .socials {
+    padding: 2em;
+  }
+
+#HTMLCSSContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  #JSContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  #JavaContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  #OthContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  #OthContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+
+  #HardwareContainer {
+    padding: 1em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap; 
+    margin:auto;
+    max-width: 100%;
+    height: auto;
+  }
+  
+  #aboutImg {
+    border: 20px solid transparent;
+    border-image: linear-gradient(45deg,#F8C8DC ,#96DED1);
+    border-image-slice:1;
+    z-index: -1;
+}
+
+#contactContainer button {
+  background: linear-gradient(45deg,#F8C8DC ,#96DED1);
+  padding-left: 2em;
+  padding-right: 2em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+  margin-top: 2em;
+  color: #282634;
+}
