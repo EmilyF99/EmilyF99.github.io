@@ -1,0 +1,120 @@
+* {margin: 0;padding: 0;border: 0;box-sizing: border-box;scroll-behavior: smooth;}
+body {background-color: #272727; }
+a {text-decoration: none; color: #C5C6C7;}
+p {margin: 0; padding: 0;} 
+
+/* HIGHLIGHTS */
+.highlight-orange {color: #FF652F;}
+.highlight-yellow {color: #FFE400;font-weight:500;font-style: italic;}
+.highlight-green {color: #14A76c;font-weight:bolder;}
+.highlight-green-ital {color: #14A76c;font-weight:500;font-style: italic;}
+
+.header {font-size: 36px;font-weight:bold;}
+.subheader {padding-top: 10px;font-style: italic;}
+.ital {font-style: italic;}
+.break {padding-top: 100px;}
+.container-fluid {padding-left: 135px; padding-right: 135px;}
+
+/* NAV BAR */
+.navbar {
+    top: 0;
+    background-color: #272727;
+    margin-bottom: 15px;
+    position:fixed;
+    width: 100%;
+}
+.navbar-brand {
+    font-family: 'Inria Sans';
+    font-weight: 800;
+    color: #FF652F;
+    font-size: 32px;
+    border-bottom: 4px solid #FF652F; 
+    padding-bottom: 5px; 
+}
+
+.navbar-brand:hover {color: white;border-bottom: 4px solid white; text-decoration: none;}
+
+.navbar-brand-custom {margin-left: 20px;}
+.navbar-links a {font-size: 24px;padding-right: 40px;}
+.navbar-links a:hover {color: #FF652F;}
+.navbar-socials {display: flex;justify-content: space-between;}
+
+.social-list {padding-top: 25px;}
+.social-list a {flex: 1; margin: 0 10px;}
+.social-list a .hover-image {display: none; /* Initially hide the hover image */}
+.social-list a:hover .hover-image {display: inline-block; /* Display the hover image on hover */}
+.social-list a:hover img:not(.hover-image) {display: none; /* Hide the original image when hovering */}
+
+/* INTRO SECTION */
+#InfoParent {padding-top: 100px;background-color: #3D3D3D;}
+
+.intro-intro {
+    padding-top: 95px;
+    font-family: 'Inria Sans';
+    font-size: 30px;
+    color: #C5C6C7;
+}
+
+.intro-skills {
+    padding-top: 30px;
+    font-family: 'Inria Sans';
+    font-size: 30px;
+    font-style: italic;
+    color: #C5C6C7;
+}
+
+/* PROJECT SECTION */
+#projectHeader {
+    color:#FFE400;
+    border-bottom: 4px solid #FFE400; /* Add a 2px solid line under the navbar-brand */
+    padding-bottom: 5px; 
+    display: inline-block;
+}
+
+#ProjectParent {
+    padding-top: 10px;
+    background-color:#272727;
+    color:#C5C6C7;
+    font-size: 26px;
+}
+
+.project-info {padding-bottom: 20px;}
+
+/* Initially hide the video */
+.hover-video {
+    display: none;
+}
+
+/* Display the video when the parent is hovered */
+.project-image:hover .hover-video {
+    display: block;
+}
+
+/* Hide the image when the parent is hovered */
+.project-image:hover img {
+    display: none;
+}
+
+/* EXPERIENCE SECTION */
+#ExperienceParent {
+    padding-top: 10px;
+    background-color: #3D3D3D;
+    color:#C5C6C7;
+    font-size: 26px;
+}
+
+#experience-Header {
+    color: #14A76c;
+    border-bottom: 4px solid #14A76c; /* Add a 2px solid line under the navbar-brand */
+    padding-bottom: 5px; 
+    display: inline-block;
+}
+
+.experience-info {padding-bottom: 20px;width: 95%;padding-left: 7%;}
+
+/* FOOTER */
+.footer {padding-top: 20px;padding-bottom: 10px;color:#C5C6C7;}
+.footer a {padding-bottom: 10px;}
+.footer a:hover {color:#FF652F;}
+.footer p {padding-bottom: 10px;}
+.footer p:hover {color:#FF652F;}
