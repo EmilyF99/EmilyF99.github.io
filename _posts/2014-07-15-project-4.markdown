@@ -1,15 +1,13 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Sumo Digital Arcade Projects
+subtitle: A collection of Small Arcade Projects
 layout: default
 modal-id: 4
-date: 2014-07-15
-img: treehouse.png
-thumbnail: treehouse-thumbnail.png
+img: BallBounce.gif
+thumbnail: sumo-thumbnail.png 
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+time-frame: 6 Weeks
+location: Offline due to NDA
+skills:  C++, ECS, Custom Frameworks
+description: Over a six week intership I was tasked with creating a collection of small arcade games using Sumo Digitals Playbuffer framework.
 ---

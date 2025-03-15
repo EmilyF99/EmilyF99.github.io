@@ -1,15 +1,14 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: GD7011-RI1-Prototype
+subtitle: 2D Platformer Game prototype
 layout: default
 modal-id: 1
-date: 2014-07-18
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: 711.gif
+thumbnail: 711-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+time-frame: 2 Weeks
+location: Itch.io
+skills: Unreal Engine 5, Blueprints, Pixel Art, Paper ZD
+description: A small 2D platformer developed as part of Rapid Ideation Phase 1 for the GDO711 Module as part of the MA Indie Games Development Course hosted by the University of Falmouth. This small platformer demo allows the player to move around the map as a square by traditional movement and a reverse gravity mechanic. 
 
 ---
