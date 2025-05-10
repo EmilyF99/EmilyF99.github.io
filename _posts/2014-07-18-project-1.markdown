@@ -1,6 +1,6 @@
 ---
 title: Raycaster Demos
-subtitle: A small Raycaster built in OpenGL to help develop an understanding of pioneering graphics rendering techniques.
+subtitle: A small Raycaster built in OpenGL.
 layout: default
 modal-id: 1
 img: RayCasterDemo.gif
