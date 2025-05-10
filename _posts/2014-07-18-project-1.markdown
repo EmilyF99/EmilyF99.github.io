@@ -1,5 +1,5 @@
 ---
-title: Raycaster Demos
+title: Raycaster Demo
 subtitle: A small Raycaster built in OpenGL.
 layout: default
 modal-id: 1
