@@ -2,7 +2,7 @@
 title: SFML Snake
 subtitle: A C++ and SFML Snake Clone
 layout: default
-modal-id: 2
+modal-id: 3
 img: snake.gif
 thumbnail: snake-thumbnail.png
 alt: image-alt

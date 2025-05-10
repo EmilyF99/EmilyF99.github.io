@@ -2,7 +2,7 @@
 title: GD7011-RI1-Prototype
 subtitle: 2D Platformer Game prototype
 layout: default
-modal-id: 1
+modal-id: 2
 img: 711.gif
 thumbnail: 711-thumbnail.png
 alt: image-alt
