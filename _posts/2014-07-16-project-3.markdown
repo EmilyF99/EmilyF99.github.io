@@ -1,13 +1,14 @@
 ---
-title: Develop at Ubisoft Project
-subtitle: A engineless space game prototype
+title: SFML Snake
+subtitle: A C++ and SFML Snake Clone
 layout: default
-modal-id: 3
-img: DAU.gif
-thumbnail: DAU-thumbnail.png
+modal-id: 2
+img: snake.gif
+thumbnail: snake-thumbnail.png
 alt: image-alt
-time-frame: 6 Months
-location: Offline due to NDA
-skills: C++, ECS, Custom Frameworks
-description: This project was completed as part of an Ubisoft Mentoring Program. Mentees had a limited timeframe to create a samll game prototype themed on space. There was no engine useage allowed and the project had to be completed using Ubisofts custom API which had limited base functionality.
+time-frame: 1 Week
+location: Github/GamesProgrammingPortfolio
+skills: SFML, C++ 
+description: This project was completed in one week as a tutorial that was the iterated on by myself to add more features. 
+
 ---

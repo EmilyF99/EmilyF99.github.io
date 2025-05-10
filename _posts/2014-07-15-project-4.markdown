@@ -1,13 +1,13 @@
 ---
-title: Sumo Digital Arcade Projects
-subtitle: A collection of Small Arcade Projects
+title: Develop at Ubisoft Project
+subtitle: A engineless space game prototype
 layout: default
-modal-id: 4
-img: BallBounce.gif
-thumbnail: sumo-thumbnail.png 
+modal-id: 3
+img: DAU.gif
+thumbnail: DAU-thumbnail.png
 alt: image-alt
-time-frame: 6 Weeks
+time-frame: 6 Months
 location: Offline due to NDA
-skills:  C++, ECS, Custom Frameworks
-description: Over a six week intership I was tasked with creating a collection of small arcade games using Sumo Digitals Playbuffer framework.
+skills: C++, ECS, Custom Frameworks
+description: This project was completed as part of an Ubisoft Mentoring Program. Mentees had a limited timeframe to create a samll game prototype themed on space. There was no engine useage allowed and the project had to be completed using Ubisofts custom API which had limited base functionality.
 ---

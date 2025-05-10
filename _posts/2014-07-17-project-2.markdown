@@ -1,14 +1,14 @@
 ---
-title: SFML Snake
-subtitle: A C++ and SFML Snake Clone
+title: GD7011-RI1-Prototype
+subtitle: 2D Platformer Game prototype
 layout: default
-modal-id: 2
-img: snake.gif
-thumbnail: snake-thumbnail.png
+modal-id: 1
+img: 711.gif
+thumbnail: 711-thumbnail.png
 alt: image-alt
-time-frame: 1 Week
-location: Github/GamesProgrammingPortfolio
-skills: SFML, C++ 
-description: This project was completed in one week as a tutorial that was the iterated on by myself to add more features. 
+time-frame: 2 Weeks
+location: Itch.io
+skills: Unreal Engine 5, Blueprints, Pixel Art, Paper ZD
+description: A small 2D platformer developed as part of Rapid Ideation Phase 1 for the GDO711 Module as part of the MA Indie Games Development Course hosted by the University of Falmouth. This small platformer demo allows the player to move around the map as a square by traditional movement and a reverse gravity mechanic. 
 
 ---
