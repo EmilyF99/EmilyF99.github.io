@@ -1,6 +1,6 @@
 ---
 title: Brenner Fight Fire With Fire
-subtitle: Use controlled burning and fire lines to save the forest.
+subtitle: Use controlled burning to save the forest.
 layout: default
 modal-id: 6
 img: Brenner.gif
