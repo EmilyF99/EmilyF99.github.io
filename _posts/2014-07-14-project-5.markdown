@@ -1,6 +1,6 @@
 ---
 title: Develop at Ubisoft Project
-subtitle: A engineless space game prototype
+subtitle: A engineless space game prototype, features working mini-map.
 layout: default
 modal-id: 4
 img: DAU.gif

@@ -1,6 +1,6 @@
 ---
 title: GD7011-RI1-Prototype
-subtitle: 2D Platformer Game prototype
+subtitle: 2D Platformer Game prototype themed around gravity.
 layout: default
 modal-id: 2
 img: 711.gif

@@ -1,6 +1,6 @@
 ---
 title: SFML Snake
-subtitle: A C++ and SFML Snake Clone
+subtitle: A C++ and SFML Snake Clone with  added personal features.
 layout: default
 modal-id: 3
 img: snake.gif
