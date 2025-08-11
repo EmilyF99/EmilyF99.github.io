@@ -1,6 +1,6 @@
 ---
 title: Sumo Digital Arcade Projects
-subtitle: A collection of Small Arcade Projects
+subtitle: A collection of Small Arcade Projects.
 layout: default
 modal-id: 5
 img: BallBounce.gif
