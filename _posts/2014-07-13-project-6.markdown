@@ -1,14 +1,13 @@
 ---
-title: Brenner Fight Fire With Fire
-subtitle: Use controlled burning and fire lines to save the forest.
+title: Sumo Digital Arcade Projects
+subtitle: A collection of Small Arcade Projects.
 layout: default
-modal-id: 6
-img: Brenner.gif
-thumbnail: BrennerImage.png
+modal-id: 5
+img: BallBounce.gif
+thumbnail: sumo-thumbnail.png 
 alt: image-alt
-time-frame: 10 Weeks
-location: Offline due to being currently marked by University tutors, happy to discuss.
-skills: C++, Blue Prints, Build Management (Using Diversion), QA, Architecture, Agile Methodologies.
-description: A 10 week University group work module. My role within this group was Programming. Within this I covered all our code, integration with Blue Prints, Build Management, QA and Audio. Brenner Fight Fire With Fire is themed around the idea of losing to win. Where the player tackles forest fires by controlled burning and fire lines.
-
+time-frame: 6 Weeks
+location: Offline due to NDA
+skills:  C++, ECS, Custom Frameworks
+description: Over a six week intership I was tasked with creating a collection of small arcade games using Sumo Digitals Playbuffer framework.
 ---

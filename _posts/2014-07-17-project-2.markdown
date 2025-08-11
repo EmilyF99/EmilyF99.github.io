@@ -1,14 +1,14 @@
 ---
-title: GD7011-RI1-Prototype
-subtitle: 2D Platformer Game prototype
+title: Raycaster Demo
+subtitle: A small Raycaster built in OpenGL.
 layout: default
-modal-id: 2
-img: 711.gif
-thumbnail: 711-thumbnail.png
+modal-id: 1
+img: RayCasterDemo.gif
+thumbnail: RaycasterDemo-thumbnail.png
 alt: image-alt
-time-frame: 2 Weeks
-location: Itch.io
-skills: Unreal Engine 5, Blueprints, Pixel Art, Paper ZD
-description: A small 2D platformer developed as part of Rapid Ideation Phase 1 for the GDO711 Module as part of the MA Indie Games Development Course hosted by the University of Falmouth. This small platformer demo allows the player to move around the map as a square by traditional movement and a reverse gravity mechanic. 
+time-frame: Ongoing
+location: Github
+skills: C++, OpenGL 
+description: This raycaster was built with basic navigation, opening doors, and multiple levels. Initially this was built as an inttroduction to Psuedo 3D Graphic techniques.
 
 ---
