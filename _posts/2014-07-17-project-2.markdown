@@ -9,6 +9,6 @@ alt: image-alt
 time-frame: Ongoing
 location: Github
 skills: C++, OpenGL 
-description: This raycaster was built with basic navigation, opening doors, and multiple levels. Initially this was built as an inttroduction to Psuedo 3D Graphic techniques.
+description: This raycaster was built with basic navigation, opening doors, and multiple levels. Initially this was built as an introduction to pseudo 3D graphic techniques.
 
 ---

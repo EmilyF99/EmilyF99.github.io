@@ -9,5 +9,5 @@ alt: image-alt
 time-frame: 6 Months
 location: Offline due to NDA
 skills: C++, ECS, Custom Frameworks
-description: This project was completed as part of an Ubisoft Mentoring Program. Mentees had a limited timeframe to create a samll game prototype themed on space. There was no engine useage allowed and the project had to be completed using Ubisofts custom API which had limited base functionality.
+description: This project was completed as part of an Ubisoft Mentoring Program. Mentees had a limited timeframe to create a small game prototype themed on space. There was no engine usage allowed and the project had to be completed using Ubisofts custom API which had limited base functionality.
 ---
